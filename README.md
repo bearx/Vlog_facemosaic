@@ -6,3 +6,6 @@ Automatically add mosaic to vlog videos by detecting faces in the video, use med
 
 [mediapipe](https://github.com/google/mediapipe) <br>
 [mpfd](https://github.com/bearx/mpfd)
+
+### Todo:
+    -[] Generate executable file(pyinstaller is not applicable)
